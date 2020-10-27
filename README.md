@@ -15,7 +15,7 @@
 V1.0 - 2018/06/14
 
 ### 未來更新 Future Features
-1.下載到任何地址(Linux Windows MacOS Android適用)
-2.可指定索引值下載
-3.可指定是否使用Proxy
-4.可指定是否增加或減少執行續
+1.下載到任何地址(Linux Windows MacOS Android適用)<br>
+2.可指定索引值下載<br>
+3.可指定是否使用Proxy<br>
+4.可指定是否增加或減少執行續<br>
